@@ -37,7 +37,9 @@ The project is divided into two Notebooks:
    - Contains all the analysis related to sales, profits, and purchasing patterns.
    
 2. **Forecasting Notebook** (`forecasting.ipynb`):
-   - Contains the hierarchical forecasting models and visualizations for future demand trends.
+   - Contains the hierarchical forecasting models for future demand trends.
+3. **LSTM Forecasting Notebook** (`lstm_model.ipynb`):
+   - Contains the LSTM forecasting models and visualizations for future demand trends.
      
 ### Hierarchical Forecasting Model
 
